@@ -1,0 +1,23 @@
+{
+  "name": "ejemplito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielVeraMontelongo/ejemplito.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielVeraMontelongo/ejemplito/issues"
+  },
+  "homepage": "https://github.com/DanielVeraMontelongo/ejemplito#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "exprexx": "^1.0.0"
+  }
+}
